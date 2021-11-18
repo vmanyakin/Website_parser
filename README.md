@@ -1,3 +1,3 @@
 # Website_parser
-Привет! С помощью этого парсера мы сможем собрать нужную нам информацию с веб-сайта, и  записать в csv файл.
-Записанный файл  вы можете открыть с помощью Google таблиц, Exel и т.д.
+Hi! With this parser, we will be able to collect the information we need from the website, and write it to a csv file.
+You can open the recorded file using Google Sheets, Exel. 
